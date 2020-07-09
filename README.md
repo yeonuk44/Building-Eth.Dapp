@@ -25,7 +25,7 @@
 
 ## 블록체인 기술
 
-작성자외 다수의 직장인 스터디 그룹에서 포스팅한 글을 참고하시면 이해하는게 더 도움이 됩니다.[링크](https://medium.com/programming-bitcoin, "programming-bitcoin")
+작성자외 다수의 직장인 스터디 그룹에서 포스팅한 글을 참고하시면 이해하는게 더 도움이 됩니다.[링크](https://medium.com/programming-bitcoin "programming-bitcoin")
 
 - 공개키 암호화(Public Key Cryptography) : 한 쌍의 키를 기반으로 하는 암호화 기법
 - 암호화 해시 함수 : 임의 크기의 데이터를 고정 크기의 데이터로 매핑(mapping)할 수 있는 함수입니다. 매핑된 고정 크기의 데이터는 해시라 부릅니다.
@@ -40,6 +40,6 @@
 
 ### SimpleCoin Improvement(SCI) 
 
-Commit history 속 SCI 의 추가설명을 보시면 문제점에 대해 어떻게 해결하였으며, 무엇을 변경하였는지 확인하실 수 있습니다.[링크](https://github.com/yeonuk44/Building-Eth.Dapp/commits/master, "Commit history")
+Commit history 속 SCI 의 추가설명을 보시면 문제점에 대해 어떻게 해결하였으며, 무엇을 변경하였는지 확인하실 수 있습니다.[링크](https://github.com/yeonuk44/Building-Eth.Dapp/commits/master "Commit history")
 
 0. 전달 함수 속 유효성 검사 부족 해결
