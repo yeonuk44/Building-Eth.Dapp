@@ -66,3 +66,4 @@
 Commit history 속 SCI 의 추가설명을 보시면 문제점에 대해 어떻게 해결하였으며, 무엇을 변경하였는지 확인하실 수 있습니다.[링크](https://github.com/yeonuk44/Building-Eth.Dapp/commits/master "Commit history")
 
 0. 전달 함수 속 유효성 검사 부족 해결
+1. 기존 제공하던 기능 부족 해결
