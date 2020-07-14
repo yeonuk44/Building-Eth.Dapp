@@ -70,7 +70,7 @@ Commit history 속 SCI 의 추가설명을 보시면 문제점에 대해 어떻�
 #### 기존 SimpleCoin 과 ERC20 사양과의 차이점
 
 | 기존 SimpleCoin                | ERC20 사양   |
-| :---------------------------: | :—--------: |
+| :---: | :---: |
 | 해당 없음                       | totalSupply |
 | coinBalance()                 | balanceOf   |
 | authorize()                   | approve()   |
