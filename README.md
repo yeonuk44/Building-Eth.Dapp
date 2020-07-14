@@ -67,15 +67,15 @@
 
 Commit history 속 SCI 의 추가설명을 보시면 문제점에 대해 어떻게 해결하였으며, 무엇을 변경하였는지 확인하실 수 있습니다.[링크](https://github.com/yeonuk44/Building-Eth.Dapp/commits/master "Commit history")
 
-기존 SimpleCoin 과 ERC20 사양과의 차이점
+#### 기존 SimpleCoin 과 ERC20 사양과의 차이점
 
-| 기존 SimpleCoin | ERC20 사양 |
-| :------------: | :—-----------: |
-| 해당 없음 | totalSupply |
-| coinBalance() | balanceOf |
-| authorize() | approve() |
+| 기존 SimpleCoin                | ERC20 사양   |
+| :---------------------------: | :—--------: |
+| 해당 없음                       | totalSupply |
+| coinBalance()                 | balanceOf   |
+| authorize()                   | approve()   |
 | 해당 없음(허용값 상태 변수 직접 사용) | allowance() |
-| 해당 없음 | Approval |
+| 해당 없음                       | Approval    |
 
 0. 전달 함수 속 유효성 검사 부족 해결
 1. 기존 제공하던 기능 부족 해결
