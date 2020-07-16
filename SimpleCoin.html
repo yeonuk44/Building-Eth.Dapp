@@ -1,0 +1,27 @@
+<html>
+<head>   
+   <script src="bower_components/web3/dist/web3.min.js"></script>
+   <script src="bower_components/jquery/dist/jquery.min.js"></script>
+   <script src="./SimpleCoin.js"></script>
+</head>
+
+<body>
+   <table>
+      <tr><b>SimpleCoin</b></tr>
+	  <tr><table border="0" cellpadding="0" width="200" id='accountsBalanceTable'> </table></tr>
+	  <tr/>
+	  <tr/>
+	  <tr>Transfer coins</tr>
+	  <tr>
+		<table border="0" cellpadding="0" width="200" id='transferCoins'> 
+		   <tr>
+			  <td>From:</td><td><input type="text" id="from" width="400" /></td>
+			  <td>To:</td><td><input type="text" id="to" width="400" /></td>
+			  <td>Amount:</td><td><input type="text" id="amount" /></td>
+			  <td><button onclick="transferCoins()">Transfer</button></td>
+		   </tr>	
+		</table>
+	  </tr>
+   </table>
+</body>
+</html>
