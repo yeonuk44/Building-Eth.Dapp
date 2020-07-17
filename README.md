@@ -6,20 +6,28 @@
 # 목차
 
 [1. 책을 배우며](#책을-배우며..)
+
 [1-1) 알아두면 좋은 것](#알아두면-좋은-것)
+
 [1-2) 탈중앙화 앱과 분산 앱의 차이점](#탈중앙화-앱과-분산-앱의-차이점)
+
 [1-3) 블록체인 기술](#블록체인-기술)
 
 [2. 이더리움](#이더리움)
+
 [2-1) 이더리움 노드 구성](#이더리움-노드-구성)
+
 [2-2) 이더리움 네트워크](#이더리움-네트워크)
+
 [2-3) MetaMask](#metamask)
+
 [2-4) 이더리움 추가 인프라 요소](#이더리움-추가-인프라-요소)
 
 [3. SimpleCoin Project](#simplecoin-project)
-[3-1) SimpleCoin Project 를 진행하며..(20.07.06 / "Remix IDE 를 통한 Deploy" Commit 부터 시작)](#simplecoin-project-를-진행하며..(20.07.06-/-"remix-ide-를-통한-deploy"-commit-부터-시작)
-[3-2) SimpleCoin Improvement(SCI)](#simplecoin-improvement(sci))
-[3-3) 기존 SimpleCoin 과 ERC20 사양과의 차이점](#기존-simplecoin-과-erc20-사양과의-차이점)
+
+[3-1) SimpleCoin Improvement(SCI)](#simplecoin-improvement(sci))
+
+[3-2) 기존 SimpleCoin 과 ERC20 사양과의 차이점](#기존-simplecoin-과-erc20-사양과의-차이점)
   
 
 # 책을 배우며..
