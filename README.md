@@ -105,9 +105,9 @@
 처음 하드코딩된 값과 전달 함수를 작성하며 Remix IDE 를 통해 배포까지 테스팅을 했습니다.(Ethereum Wallet, MetaMask 도 사용)     
 이후 "SimpleCoin Improvement(index)" 를 통해 코드를 지속적으로 개선시키고 있습니다.
 
-## SimpleCoin Improvement(SCI) 
+## SimpleCoin Improvement
 
-Commit history 속 SCI 의 추가설명을 보시면 문제점에 대해 어떻게 해결하였으며, 무엇을 변경하였는지 확인하실 수 있습니다.[링크](https://github.com/yeonuk44/Building-Eth.Dapp/commits/master "Commit history")
+Commit history 속 SimpleCoin Improvement(속칭 SCI) 의 추가설명을 보시면 문제점에 대해 어떻게 해결하였으며, 무엇을 변경하였는지 확인하실 수 있습니다.[링크](https://github.com/yeonuk44/Building-Eth.Dapp/commits/master "Commit history")
 
 0. 전달 함수 속 유효성 검사 부족 해결
 1. 기존 제공하던 기능 부족 해결
@@ -116,7 +116,9 @@ Commit history 속 SCI 의 추가설명을 보시면 문제점에 대해 어떻�
 4. ERC20 호환 문제 해결 및 표준 권고 사항 반영
 5. SimpleCoin의 웹 UI 구축(최초의 DApp 생성)
 
-### 기존 SimpleCoin 과 ERC20 사양과의 차이점(About SCI-4)
+### 기존 SimpleCoin 과 ERC20 사양과의 차이점
+
+본 테이블은 SCI-4가 있기까지의 비교사항입니다.
 
 | 기존 SimpleCoin                | ERC20 사양   |
 | :---: | :---: |
