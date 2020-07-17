@@ -27,7 +27,7 @@
 
   [3-1) SimpleCoin Improvement(SCI)](#simplecoin-improvement(sci))
 
-  [3-2) 기존 SimpleCoin 과 ERC20 사양과의 차이점](#기존-simplecoin-과-erc20-사양과의-차이점)
+  [3-2) 기존 SimpleCoin 과 ERC20 사양과의 차이점(About SCI-4)](#기존-simplecoin-과-erc20-사양과의-차이점(about-sci-4))
   
 
 # 책을 배우며..
@@ -116,7 +116,7 @@ Commit history 속 SCI 의 추가설명을 보시면 문제점에 대해 어떻�
 4. ERC20 호환 문제 해결 및 표준 권고 사항 반영
 5. SimpleCoin의 웹 UI 구축(최초의 DApp 생성)
 
-### 기존 SimpleCoin 과 ERC20 사양과의 차이점
+### 기존 SimpleCoin 과 ERC20 사양과의 차이점(About SCI-4)
 
 | 기존 SimpleCoin                | ERC20 사양   |
 | :---: | :---: |
