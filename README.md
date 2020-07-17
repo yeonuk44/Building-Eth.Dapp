@@ -25,9 +25,9 @@
 
 [3. SimpleCoin Project](#simplecoin-project)
 
-  [3-1) SimpleCoin Improvement(SCI)](#simplecoin-improvement(sci))
+  [3-1) SimpleCoin Improvement(SCI)](#simplecoin-improvement)
 
-  [3-2) 기존 SimpleCoin 과 ERC20 사양과의 차이점(About SCI-4)](#기존-simplecoin-과-erc20-사양과의-차이점(about-sci-4))
+  [3-2) 기존 SimpleCoin 과 ERC20 사양과의 차이점(About SCI-4)](#기존-simplecoin-과-erc20-사양과의-차이점)
   
 
 # 책을 배우며..
