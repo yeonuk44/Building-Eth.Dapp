@@ -1,0 +1,8 @@
+{
+  "name": "simple_coin_tests",
+  "version": "1.0.0",
+  "description": "unit tests for simple coin",
+  "scripts": {
+    "test": "mocha"
+  }
+}
