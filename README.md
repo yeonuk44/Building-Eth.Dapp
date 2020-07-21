@@ -140,6 +140,7 @@ Commit history 속 SimpleCoin Improvement(속칭 SCI) 의 추가설명을 보시
 3. 컨트랙트 소유권 사유화 해결
 4. ERC20 호환 문제 해결 및 표준 권고 사항 반영
 5. SimpleCoin의 웹 UI 구축(최초의 DApp 생성)
+6. SimpleCoin의 테스트 환경 구축 및 테스팅 코드 작성
 
 ### 기존 SimpleCoin 과 ERC20 사양과의 차이점
 
