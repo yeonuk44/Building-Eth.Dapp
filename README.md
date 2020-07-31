@@ -192,6 +192,9 @@ JS 유닛 테스트 프레임워크인 모카를 활용해 SimpleCoin의 단위 
 ## SimpleVoting Improvement
 Commit history 속 SimpleVoting Improvement(속칭 SVI) 의 추가설명을 보시면 문제점에 대해 어떻게 해결하였으며, 무엇을 변경하였는지 확인하실 수 있습니다.[링크](https://github.com/yeonuk44/Building-Eth.Dapp/commits/master "Commit history")
 
+0. Remix를 통한 sol 작성 및 테스트 배포
+1. test.js 를 통한 터미널 쉘에서 가 배포
+
 ### 투표 디앱 요구 사항 정의
 - 작은 조직 내에서 사용하는 투표 디앱을 구현합니다. 조직은 유권자 정보를 가지고 이더리움 주소를 화이트리스트에 등록하고, 제안 기간 동안 새로은 제안을 등록할 수 있습니다. 투표 기간 동안 제출된 제안에 투표가 가능합니다.
 - 투표는 비밀 투표가 아니며 모든 유권자는 다른 사람의 투표를 볼 수 있습니다.
