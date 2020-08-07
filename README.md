@@ -27,6 +27,8 @@
   
   [2-6) JS 테스트 프레임워크](#js-테스트-프레임워크)
   
+  [2-7) 솔리디티 보안 취약점과 외부 호출 관련 위험 요소](#솔리디티-보안-취약점과-외부-호출-관련-위험-요소)
+  
 [3. SimpleCoin Project](#simplecoin-project)
 
   [3-1) SimpleCoin Improvement(SCI)](#simplecoin-improvement)
